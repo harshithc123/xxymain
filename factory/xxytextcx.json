@@ -1,0 +1,9 @@
+{
+	"name": "xxytextcx",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "489ce84b-1276-49ac-adec-1f1ca2748f8b",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
